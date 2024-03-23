@@ -16,34 +16,25 @@ Este repositorio contiene una colección de archivos Excel y de texto que docume
 ##### **Sprint 1 Clases de Equivalencia:** <br>Este archivo Excel contiene las clases de equivalencia identificadas durante el Sprint 1, utilizadas para el diseño de casos de prueba efectivos.
 
 Sprint 2 Lista de comprobación y resultados de las pruebas pruebas de diseño: <br>En este archivo Excel, se encuentra la lista de comprobación y los resultados de las pruebas de diseño realizadas durante el Sprint 2.
-<br>
+
 Lista de comprobación API Informe de prueba Sprint3: <br>En este archivo de texto, se encuentra la lista de comprobación y el informe de prueba de la API durante el Sprint 3.
-<br>
-<br>
+
 Sprint 3 Lista de comprobación API Nueva Función: <br>Este archivo Excel incluye la lista de comprobación utilizada para probar una nueva función de API durante el Sprint 3.
-<br>
-<br>
+
 Lista de comprobación API Informe de prueba Sprint3: <br>En este archivo de texto, se encuentra la lista de comprobación y el informe de prueba de la API durante el Sprint 3.
-<br>
-<br>
+
 Sprint 4 Bases de datos Tablas: <br>En este archivo Excel, se detallan las tablas de bases de datos utilizadas y probadas durante el Sprint 4.
-<br>
-<br>
+
 Bases de datos Informe Resultado de las Pruebas Sprint4: <br>Este archivo de texto proporciona un informe detallado de los resultados de las pruebas realizadas en las bases de datos durante el Sprint 4.
-<br>
-<br>
+
 Sprint 5 Pruebas de aplicación móvíl: <br>Este archivo Excel contiene los casos de prueba y resultados de las pruebas realizadas en una aplicación móvil durante el Sprint 5.
-<br>
-<br>
+
 Sprint 6 Listado de preguntas para probar un formulario de registro: <br>Este archivo de texto contiene un listado de preguntas utilizadas para probar un formulario de registro durante el Sprint 6.
-<br>
-<br>
+
 Sprint 7 Final Project: En este archivo Excel, se encuentra la documentación completa del proyecto final realizado durante el Sprint 7, incluyendo casos de prueba, resultados y observaciones.
-<br>
-<br>
+
 Herramientas y Tecnologías Utilizadas
-<br>
-<br>
+
 Durante la realización de las pruebas, se emplearon las siguientes herramientas y tecnologías:
 <br>
 <br>
