@@ -33,7 +33,7 @@ Sprint 6 Listado de preguntas para probar un formulario de registro: <br>Este ar
 
 Sprint 7 Final Project: En este archivo Excel, se encuentra la documentación completa del proyecto final realizado durante el Sprint 7, incluyendo casos de prueba, resultados y observaciones.
 
-Herramientas y Tecnologías Utilizadas
+**Herramientas y Tecnologías Utilizadas**
 
 Durante la realización de las pruebas, se emplearon las siguientes herramientas y tecnologías:
 <br>
@@ -53,13 +53,13 @@ Durante la realización de las pruebas, se emplearon las siguientes herramientas
 ![XSD](https://img.shields.io/badge/XSD-0077B5?style=for-the-badge&logoColor=white)
 <br>
 <br>
-Uso del Repositorio
+**Uso del Repositorio**
 <br>
 <br>
 Este repositorio sirve como una referencia completa de las pruebas realizadas durante la carrera de QA Engineer. Los archivos Excel y de texto pueden ser consultados para obtener detalles sobre los casos de prueba, resultados y observaciones en cada sprint.
 <br>
 <br>
-Contribución
+**Contribución**
 <br>
 <br>
 Si deseas contribuir a este repositorio o tienes alguna pregunta relacionada con las pruebas realizadas, por favor, ponte en contacto con el responsable de este proyecto .
