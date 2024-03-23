@@ -1,8 +1,8 @@
-Repositorio de Pruebas
+# **Repositorio de Pruebas**
 <br>
 <br>
 <br>
-Bienvenido al repositorio de pruebas. 
+## **Bienvenido al repositorio de pruebas** 
 <br>
 <br>
 Este repositorio contiene una colección de archivos Excel y de texto que documentan las pruebas realizadas durante la carrera de QA Engineer, abarcando desde el Sprint 1 hasta el Sprint 7.
