@@ -7,11 +7,11 @@
 
 Este repositorio contiene una colección de archivos Excel y de texto que documentan las pruebas realizadas durante la carrera de QA Engineer, abarcando desde el Sprint 1 hasta el Sprint 7.
 <br>
-<br>
+
 ### **Contenido del Repositorio**
 <br>
-<br>
-Archivos Excel
+
+#### **Archivos**
 <br>
 <br>
 Sprint 1 Clases de Equivalencia: <br>Este archivo Excel contiene las clases de equivalencia identificadas durante el Sprint 1, utilizadas para el diseño de casos de prueba efectivos.
