@@ -14,7 +14,7 @@ Este repositorio contiene una colección de archivos Excel y de texto que docume
 #### **Archivos**
 <br>
 
-Sprint 1 Clases de Equivalencia: <br>Este archivo Excel contiene las clases de equivalencia identificadas durante el Sprint 1, utilizadas para el diseño de casos de prueba efectivos.
+##### **Sprint 1 Clases de Equivalencia:** <br>Este archivo Excel contiene las clases de equivalencia identificadas durante el Sprint 1, utilizadas para el diseño de casos de prueba efectivos.
 <br>
 <br>
 Sprint 2 Lista de comprobación y resultados de las pruebas pruebas de diseño: <br>En este archivo Excel, se encuentra la lista de comprobación y los resultados de las pruebas de diseño realizadas durante el Sprint 2.
