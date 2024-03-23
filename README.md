@@ -62,5 +62,6 @@ Este repositorio sirve como una referencia completa de las pruebas realizadas du
 **Contribución**
 <br>
 <br>
-Si deseas contribuir a este repositorio o tienes alguna pregunta relacionada con las pruebas realizadas, por favor, ponte en contacto con el responsable de este proyecto .
+
+Si deseas contribuir a este repositorio o tienes alguna pregunta relacionada con las pruebas realizadas, por favor, ponte en contacto con el responsable de este proyecto [aquí](https://www.linkedin.com/in/patricgallardo/).
 
