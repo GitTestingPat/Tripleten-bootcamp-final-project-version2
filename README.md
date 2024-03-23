@@ -16,6 +16,7 @@ Archivos Excel
 <br>
 Sprint 1 Clases de Equivalencia: <br>Este archivo Excel contiene las clases de equivalencia identificadas durante el Sprint 1, utilizadas para el diseño de casos de prueba efectivos.
 <br>
+<br>
 Sprint 2 Lista de comprobación y resultados de las pruebas pruebas de diseño: <br>En este archivo Excel, se encuentra la lista de comprobación y los resultados de las pruebas de diseño realizadas durante el Sprint 2.
 <br>
 Sprint 3 Lista de comprobación API Nueva Función: <br>Este archivo Excel incluye la lista de comprobación utilizada para probar una nueva función de API durante el Sprint 3.
