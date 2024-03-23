@@ -1,0 +1,29 @@
+Ejercicio final
+Diseñar una lista de preguntas para un nuevo objeto.
+
+Ejercicio
+Probar un formulario de registro.
+¿Qué preguntas debes hacer para comprobar el objeto por completo?
+
+Respuesta:
+
+1. ¿Cuál es el propósito principal del formulario de registro (suscripción a un boletín, creación de una cuenta de usuario, registro de eventos)?
+2. ¿Qué campos son obligatorios en el formulario de registro?
+3. ¿Qué campos son opcionales en el formulario de registro?
+4. ¿Hay algún límite en la longitud de los campos de texto, como el nombre de usuario, la contraseña o la dirección de correo electrónico?
+5. ¿Existe alguna validación específica para los campos de entrada, como formato de correo electrónico, número de teléfono o código postal?
+6. ¿Qué tipo de sistema de verificación se utiliza para prevenir el registro automático de bots (CAPTCHA, reCAPTCHA, etc.)?
+7. ¿El formulario de registro requiere la aceptación de términos y condiciones o política de privacidad antes de completar el registro?
+8. ¿Se proporciona alguna opción para vincular cuentas de redes sociales (Facebook, Google, etc.) durante el proceso de registro?
+9. ¿Se ofrece algún tipo de autenticación de dos factores para mejorar la seguridad del proceso de registro?
+10. ¿Cuál es el proceso de recuperación de contraseña en caso de que un usuario olvide sus credenciales de inicio de sesión?
+11. ¿Cómo se maneja la privacidad y seguridad de los datos proporcionados en el formulario de registro?
+12. ¿Existe algún mecanismo de confirmación por correo electrónico después de completar el registro para verificar la autenticidad de la dirección proporcionada?
+13. ¿El formulario de registro es accesible y compatible con lectores de pantalla y otras tecnologías de asistencia?
+14. ¿Cuál es el proceso para eliminar o modificar la información proporcionada en el formulario de registro una vez que se ha creado una cuenta?
+15. ¿El formulario de registro es compatible con dispositivos móviles y se ajusta adecuadamente a diferentes tamaños de pantalla y resoluciones?
+16. ¿Se proporciona alguna opción de ayuda o soporte en caso de que los usuarios encuentren problemas durante el proceso de registro?
+17. ¿Se puede personalizar el formulario de registro para adaptarse a diferentes idiomas o regiones geográficas?
+18. ¿Qué navegadores y versiones son compatibles con el formulario de registro?
+19. ¿Cuál es la experiencia del usuario al completar el formulario de registro y cómo se puede mejorar?
+20. ¿Qué sistemas o servicios se integran con el formulario de registro (sistema de gestión de usuarios, sistema de correo electrónico, CRM, etc.)?
