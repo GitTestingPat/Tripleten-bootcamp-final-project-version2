@@ -1,29 +1,29 @@
-Ejercicio final
-Diseñar una lista de preguntas para un nuevo objeto.
+Final exercise
+Design a list of questions for a new object.
 
-Ejercicio
-Probar un formulario de registro.
-¿Qué preguntas debes hacer para comprobar el objeto por completo?
+Exercise
+Test a registration form.
+What questions should you ask to test the object completely?
 
-Respuesta:
+Answer:
 
-1. ¿Cuál es el propósito principal del formulario de registro (suscripción a un boletín, creación de una cuenta de usuario, registro de eventos)?
-2. ¿Qué campos son obligatorios en el formulario de registro?
-3. ¿Qué campos son opcionales en el formulario de registro?
-4. ¿Hay algún límite en la longitud de los campos de texto, como el nombre de usuario, la contraseña o la dirección de correo electrónico?
-5. ¿Existe alguna validación específica para los campos de entrada, como formato de correo electrónico, número de teléfono o código postal?
-6. ¿Qué tipo de sistema de verificación se utiliza para prevenir el registro automático de bots (CAPTCHA, reCAPTCHA, etc.)?
-7. ¿El formulario de registro requiere la aceptación de términos y condiciones o política de privacidad antes de completar el registro?
-8. ¿Se proporciona alguna opción para vincular cuentas de redes sociales (Facebook, Google, etc.) durante el proceso de registro?
-9. ¿Se ofrece algún tipo de autenticación de dos factores para mejorar la seguridad del proceso de registro?
-10. ¿Cuál es el proceso de recuperación de contraseña en caso de que un usuario olvide sus credenciales de inicio de sesión?
-11. ¿Cómo se maneja la privacidad y seguridad de los datos proporcionados en el formulario de registro?
-12. ¿Existe algún mecanismo de confirmación por correo electrónico después de completar el registro para verificar la autenticidad de la dirección proporcionada?
-13. ¿El formulario de registro es accesible y compatible con lectores de pantalla y otras tecnologías de asistencia?
-14. ¿Cuál es el proceso para eliminar o modificar la información proporcionada en el formulario de registro una vez que se ha creado una cuenta?
-15. ¿El formulario de registro es compatible con dispositivos móviles y se ajusta adecuadamente a diferentes tamaños de pantalla y resoluciones?
-16. ¿Se proporciona alguna opción de ayuda o soporte en caso de que los usuarios encuentren problemas durante el proceso de registro?
-17. ¿Se puede personalizar el formulario de registro para adaptarse a diferentes idiomas o regiones geográficas?
-18. ¿Qué navegadores y versiones son compatibles con el formulario de registro?
-19. ¿Cuál es la experiencia del usuario al completar el formulario de registro y cómo se puede mejorar?
-20. ¿Qué sistemas o servicios se integran con el formulario de registro (sistema de gestión de usuarios, sistema de correo electrónico, CRM, etc.)?
+1. what is the main purpose of the registration form (newsletter subscription, user account creation, event registration)?
+2. Which fields are required in the registration form?
+3. What fields are optional in the registration form?
+4. Is there any limit on the length of text fields, such as username, password or e-mail address?
+5. Is there any specific validation for input fields, such as e-mail format, phone number or zip code?
+6. What type of verification system is used to prevent automated registration bots (CAPTCHA, reCAPTCHA, etc.)?
+7. Does the registration form require acceptance of terms and conditions or privacy policy before completing the registration?
+Is any option provided to link social network accounts (Facebook, Google, etc.) during the registration process?
+9. Is any type of two-factor authentication provided to enhance the security of the registration process?
+10. What is the password recovery process in case a user forgets his/her login credentials?
+11. How is the privacy and security of the data provided in the registration form handled?
+12. Is there an e-mail confirmation mechanism after completing the registration to verify the authenticity of the address provided?
+13. Is the registration form accessible and compatible with screen readers and other assistive technologies?
+14. What is the process for deleting or modifying information provided on the registration form once an account has been created?
+Is the registration form compatible with mobile devices and does it adjust appropriately to different screen sizes and resolutions?
+16. Is any help or support option provided in case users encounter problems during the registration process?
+17. Can the registration form be customized to suit different languages or geographic regions?
+18. What browsers and versions are supported for the registration form?
+19. What is the user experience when completing the registration form and how can it be improved?
+20. What systems or services are integrated with the registration form (user management system, e-mail system, CRM, etc.)?
