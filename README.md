@@ -1,41 +1,38 @@
-# **Repositorio de Pruebas**
+# **Test Repository**
 <br>
 <br>
 
-## **Bienvenido al Repositorio de Pruebas**
+This repository contains a collection of Excel and text files documenting the tests performed during the QA Engineer's career, spanning from Sprint 1 to Sprint 7.
 <br>
 
-Este repositorio contiene una colección de archivos Excel y de texto que documentan las pruebas realizadas durante la carrera de QA Engineer, abarcando desde el Sprint 1 hasta el Sprint 7.
+### **Repository Content**
 <br>
 
-### **Contenido del Repositorio**
-<br>
+#### **Archives**
 
-#### **Archivos**
+##### **Sprint 1 Equivalency Classes:** <br>This Excel file contains the equivalency classes identified during Sprint 1, used for effective test case design.
 
-##### **Sprint 1 Clases de Equivalencia:** <br>Este archivo Excel contiene las clases de equivalencia identificadas durante el Sprint 1, utilizadas para el diseño de casos de prueba efectivos.
+Sprint 2 Checklist and test results design tests: <br>In this Excel file, you will find the checklist and test results of the design tests performed during Sprint 2.
 
-Sprint 2 Lista de comprobación y resultados de las pruebas pruebas de diseño: <br>En este archivo Excel, se encuentra la lista de comprobación y los resultados de las pruebas de diseño realizadas durante el Sprint 2.
+API Checklist API Test Report Sprint3: <br>In this text file, you will find the API checklist and test report during Sprint 3.
 
-Lista de comprobación API Informe de prueba Sprint3: <br>En este archivo de texto, se encuentra la lista de comprobación y el informe de prueba de la API durante el Sprint 3.
+Sprint 3 API New Feature Checklist: <br>This Excel file includes the checklist used to test a new API feature during Sprint 3.
 
-Sprint 3 Lista de comprobación API Nueva Función: <br>Este archivo Excel incluye la lista de comprobación utilizada para probar una nueva función de API durante el Sprint 3.
+API Checklist API Test Report Sprint3: <br>In this text file, you will find the API checklist and test report during Sprint 3.
 
-Lista de comprobación API Informe de prueba Sprint3: <br>En este archivo de texto, se encuentra la lista de comprobación y el informe de prueba de la API durante el Sprint 3.
+Sprint 4 Database Tables:<br>This Excel file details the database tables used and tested during Sprint 4.
 
-Sprint 4 Bases de datos Tablas: <br>En este archivo Excel, se detallan las tablas de bases de datos utilizadas y probadas durante el Sprint 4.
+Sprint 4 Database Test Results Report:<br>This text file provides a detailed report of the test results from the databases during Sprint 4.
 
-Bases de datos Informe Resultado de las Pruebas Sprint4: <br>Este archivo de texto proporciona un informe detallado de los resultados de las pruebas realizadas en las bases de datos durante el Sprint 4.
+Sprint 5 Mobile Application Testing:<br>This Excel file contains the test cases and results from testing a mobile application during Sprint 5.
 
-Sprint 5 Pruebas de aplicación móvíl: <br>Este archivo Excel contiene los casos de prueba y resultados de las pruebas realizadas en una aplicación móvil durante el Sprint 5.
+Sprint 6 Registration Form Test Questions:<br>This text file contains a list of questions used to test a registration form during Sprint 6.
 
-Sprint 6 Listado de preguntas para probar un formulario de registro: <br>Este archivo de texto contiene un listado de preguntas utilizadas para probar un formulario de registro durante el Sprint 6.
+Sprint 7 Final Project: This Excel file includes the complete documentation of the final project developed during Sprint 7, including test cases, results, and observations.
 
-Sprint 7 Final Project: En este archivo Excel, se encuentra la documentación completa del proyecto final realizado durante el Sprint 7, incluyendo casos de prueba, resultados y observaciones.
+**Tools and Technologies Used**
 
-**Herramientas y Tecnologías Utilizadas**
-
-Durante la realización de las pruebas, se emplearon las siguientes herramientas y tecnologías:
+During testing, the following tools and technologies were used:
 <br>
 <br>
 <br>
@@ -53,7 +50,7 @@ Durante la realización de las pruebas, se emplearon las siguientes herramientas
 ![XSD](https://img.shields.io/badge/XSD-0077B5?style=for-the-badge&logoColor=white)
 <br>
 <br>
-**Uso del Repositorio**
+**Repository Usage**
 <br>
 <br>
 Este repositorio sirve como una referencia completa de las pruebas realizadas durante la carrera de QA Engineer. Los archivos Excel y de texto pueden ser consultados para obtener detalles sobre los casos de prueba, resultados y observaciones en cada sprint.
