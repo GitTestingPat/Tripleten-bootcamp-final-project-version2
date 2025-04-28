@@ -58,7 +58,7 @@ During testing, the following tools and technologies were used:
 ![XSD](https://img.shields.io/badge/XSD-0077B5?style=for-the-badge&logoColor=white)
 <br>
 <br>
-**Repository Usage**
+# **Repository Usage**
 <br>
 <br>
 This repository serves as a complete reference of the tests performed during the QA Engineer's career. Excel and text files can be consulted for details on test cases, results and observations in each sprint.
