@@ -7,7 +7,7 @@ What questions should you ask to test the object completely?
 
 Answer:
 
-1. what is the main purpose of the registration form (newsletter subscription, user account creation, event registration)?
+1. What is the main purpose of the registration form (newsletter subscription, user account creation, event registration)?
 2. Which fields are required in the registration form?
 3. What fields are optional in the registration form?
 4. Is there any limit on the length of text fields, such as username, password or e-mail address?
