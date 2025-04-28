@@ -30,7 +30,7 @@ Sprint 6 Registration Form Test Questions:<br>This text file contains a list of 
 
 Sprint 7 Final Project: This Excel file includes the complete documentation of the final project developed during Sprint 7, including test cases, results, and observations.
 
-**Tools and Technologies Used**
+# **Tools and Technologies Used**
 
 During testing, the following tools and technologies were used:
 <br>
@@ -53,12 +53,8 @@ During testing, the following tools and technologies were used:
 **Repository Usage**
 <br>
 <br>
-Este repositorio sirve como una referencia completa de las pruebas realizadas durante la carrera de QA Engineer. Los archivos Excel y de texto pueden ser consultados para obtener detalles sobre los casos de prueba, resultados y observaciones en cada sprint.
-<br>
-<br>
-**Contribución**
+This repository serves as a complete reference of the tests performed during the QA Engineer's career. Excel and text files can be consulted for details on test cases, results and observations in each sprint.
 <br>
 <br>
 
-Si deseas contribuir a este repositorio o tienes alguna pregunta relacionada con las pruebas realizadas, por favor, ponte en contacto con el responsable de este proyecto [aquí](https://www.linkedin.com/in/patricgallardo/).
 
