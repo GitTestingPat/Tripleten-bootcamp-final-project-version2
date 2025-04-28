@@ -5,8 +5,7 @@
 This repository contains a collection of Excel and text files documenting the tests performed during the QA Engineer's career, spanning from Sprint 1 to Sprint 7.
 <br>
 
-### **Repository Content**
-<br>
+### **Repository Content**<br>
 
 #### **Archives**
 
