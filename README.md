@@ -60,7 +60,6 @@ During testing, the following tools and technologies were used:
 <br>
 # **Repository Usage**
 <br>
-<br>
 This repository serves as a complete reference of the tests performed during the QA Engineer's career. Excel and text files can be consulted for details on test cases, results and observations in each sprint.
 <br>
 <br>
