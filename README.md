@@ -20,13 +20,13 @@ This repository contains a collection of Excel and text files documenting the te
 <ins>**Sprint 3 API New Feature Checklist:**</ins>
 <br>This Excel file includes the checklist used to test a new API feature during Sprint 3.
 
-<ins>**API Checklist API Test Report (Sprint 3):**</ins>
+<ins>**Checklist API Test Report (Sprint 3):**</ins>
 <br>In this text file, you will find the API checklist and test report during Sprint 3.
 
 <ins>**Sprint 4 Database Tables:**</ins>
 <br>This Excel file details the database tables used and tested during Sprint 4.
 
-<ins>**Database Test Results Report (Sprint 4):**</ins>
+<ins>**Databases Test Results Report (Sprint 4):**</ins>
 <br>This text file provides a detailed report of the test results from the databases during Sprint 4.
 
 <ins>**Sprint 5 Mobile Application Testing:**</ins>
