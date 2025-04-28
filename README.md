@@ -10,15 +10,15 @@ This repository contains a collection of Excel and text files documenting the te
 
 #### **Archives**
 
-##### Sprint 1 Equivalency Classes: <br>This Excel file contains the equivalency classes identified during Sprint 1, used for effective test case design.
+##### 
+
+Sprint 1 Equivalency Classes: <br>This Excel file contains the equivalency classes identified during Sprint 1, used for effective test case design.
 
 Sprint 2 Checklist and test results design tests: <br>In this Excel file, you will find the checklist and test results of the design tests performed during Sprint 2.
 
-API Checklist API Test Report Sprint3: <br>In this text file, you will find the API checklist and test report during Sprint 3.
+API Checklist API Test Report Sprint 3: <br>In this text file, you will find the API checklist and test report during Sprint 3.
 
 Sprint 3 API New Feature Checklist: <br>This Excel file includes the checklist used to test a new API feature during Sprint 3.
-
-API Checklist API Test Report Sprint3: <br>In this text file, you will find the API checklist and test report during Sprint 3.
 
 Sprint 4 Database Tables:<br>This Excel file details the database tables used and tested during Sprint 4.
 
