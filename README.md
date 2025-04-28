@@ -10,7 +10,7 @@ This repository contains a collection of Excel and text files documenting the te
 
 #### **Archives**
 
-##### **Sprint 1 Equivalency Classes:** <br>This Excel file contains the equivalency classes identified during Sprint 1, used for effective test case design.
+##### Sprint 1 Equivalency Classes: <br>This Excel file contains the equivalency classes identified during Sprint 1, used for effective test case design.
 
 Sprint 2 Checklist and test results design tests: <br>In this Excel file, you will find the checklist and test results of the design tests performed during Sprint 2.
 
